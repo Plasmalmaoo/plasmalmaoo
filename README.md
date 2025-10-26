@@ -1,6 +1,6 @@
-# Hi, I'm [Plasma]!
+# Hi, I'm Plasma
 
-Discord: [8zsk] 
+Discord: 8zsk 
 
 A little more about me...
 
@@ -9,7 +9,7 @@ const user = {
   pronouns: "he" | "him",
   age: 15,
   bio: "Student exploring game development and cybersecurity, minimalist",
-  code: [/* e.g., "Lua", "Python", "HTML", "CSS" */],
-  tools: [/* e.g., "Roblox Studio", "VS Code", "Git" */],
-  currentLearning: [/* e.g., "C++", "Cybersecurity fundamentals" */],
+  code: ["Lua", "Python", "HTML", "CSS"],
+  tools: ["Roblox Studio", "VS Code", "Git"],
+  currentLearning: ["C++", "Cybersecurity fundamentals"],
 }
