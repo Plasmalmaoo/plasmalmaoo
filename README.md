@@ -29,10 +29,10 @@
 
 ### 📈 my contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
 
-<h2 align="center">✨ thanks for reading ✨</h2>
+<h2 align="center"> thanks for reading </h2>
