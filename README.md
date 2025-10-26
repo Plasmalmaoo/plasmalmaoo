@@ -1,8 +1,7 @@
 # Hi, I'm Plasma
 
 <p align="left">
-  Hi, I'm [Your Name]! I'm a student exploring game dev and cybersecurity.
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" align="right" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1xNnN1dXM4enJnYjd0YWVhMHNrczNqbDV2N2dzNDd6M2tpdTk0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" align="right" width="200"/>
 </p>
 
 Discord: 8zsk 
