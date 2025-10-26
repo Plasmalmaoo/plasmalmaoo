@@ -22,6 +22,6 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thanks For Reading</b></em>
+<em><b>Thanks For Reading</b></em>
 
 ---
