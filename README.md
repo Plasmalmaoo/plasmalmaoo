@@ -35,6 +35,4 @@
 
 ---
 
-<p align="center">
-  <sub>thanks for reading</sub>
-</p>
+<h2 align="center">✨ thanks for reading ✨</h2>
