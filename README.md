@@ -18,8 +18,11 @@
 ---
 
 ### 💻 languages i know  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java&theme=light" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40"/>
 </p>
 
 ---
