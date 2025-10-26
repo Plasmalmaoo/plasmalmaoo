@@ -17,3 +17,7 @@ const user = {
   tools: ["Roblox Studio", "VS Code", "Git"],
   currentLearning: ["C++", "Cybersecurity fundamentals"],
 }
+
+<p align="center">
+  *Thanks for reading*
+</p>
