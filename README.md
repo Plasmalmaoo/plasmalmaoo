@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">hey there 👋</h1>
 
-<!--
-**Plasmalmaoo/plasmalmaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU3eXRwaXJvOHB2eXY2NTAxYXo2NHpkazhxMzBjcmFqczd1ZjM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" align="right" width="250"/>
+</p>
 
-Here are some ideas to get you started:
+### 👩‍💻 about me  
+**name:** Plasma
+**age:** 15  
+**bio:** i’m a 15 y/o student who loves game dev and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 currently learning  
+- Game Development with Roblox Studio.  
+- C++ 
+
+---
+
+### 💻 languages i know  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java&theme=light" />
+</p>
+
+---
+
+### 📈 my contributions  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>thanks for reading</sub>
+</p>
