@@ -10,6 +10,7 @@ const Plasma = {
   pronouns: "he" | "him",
   code: [Python, Lua, HTML, CSS, C++, C#],
   tools: [VS code, Roblox Studio, Git, Unity],
+  learning: [Rust],
 }
 ```
 
