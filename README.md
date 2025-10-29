@@ -9,7 +9,7 @@ A little more about me...
 const Plasma = {
   pronouns: "he" | "him",
   code: [Python, Lua, HTML, CSS, C++, C#],
-  tools: [VS code, Roblox Studio, Git, Unity],
+  tools: [VS code, Roblox Studio, Git, Unity, Godot],
   learning: [Rust],
 }
 ```
